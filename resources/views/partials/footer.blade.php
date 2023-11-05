@@ -1,95 +1,76 @@
 
 <!-- Footer -->
-<footer class="px-4  mt-10 mb-12 font-plus-jakarta-sans">
-    <div class="w-full h-full max-w-[1215px] mx-auto">
-        <div
-            class="w-full bg-[#2563EB] text-white h-full rounded-[20px] pt-8 pb-12 flex flex-col items-center justify-center flex-wrap relative overflow-hidden">
-            <h1 class="text-[26px] lg:text-[42px] font-semibold text-center relative">Subscribe to our
-                newsletter</h1>
-            <div class="flex lg:flex-row flex-col mt-8 gap-4 flex-wrap relative">
-                <input type="text"
-                    class="rounded-[9px] w-[246px] h-[54px] bg-transparent border border-white placeholder:text-white p-4"
-                    placeholder="First name" />
-                <input type="text"
-                    class="rounded-[9px] w-[246px] h-[54px] bg-transparent border border-white placeholder:text-white p-4"
-                    placeholder="Email address" />
+<footer class="w-full px-5 lg:px-32 xl:px-0 pt-8">
+    <div class="max-w-[1215px] w-full mx-auto">
+        <div class="relative w-full py-16 space-y-10 text-center bg-[#2563EB] rounded-2xl overflow-hidden">
+            <h1
+                class="relative px-8 lg:px-0 text-xl lg:text-3xl xl:text-4xl font-bold lg:leading-tight xl:leading-tight text-white">
+                Subscribe to our newsletter</h1>
+            <div class="relative flex flex-col lg:flex-row lg:items-center gap-4 w-full lg:w-[70%] mx-auto px-8">
+                <input type="text" class="flex-1 input w-full" placeholder="First Name" />
+                <input type="text" class="flex-1 input w-full" placeholder="Email Address" />
                 <button
-                    class="lg:w-[263px] h-[54px] bg-black shadow-3xl rounded-[9px] shadow-blue-400 text-[20px] hover:bg-slate-700">Subscribe
+                    class="btn-dark py-3 w-full flex-1 mt-4 lg:mt-0 font-bold rounded-full lg:rounded-lg bg-[#090914] hover:bg-[#15152c] ">Subscribe
                     Now</button>
             </div>
-            <div
-                class="absolute -bottom-[160px] lg:-bottom-[140px] -right-[116px] w-[253px] h-[206px] border-[6px] border-white rounded-[50%]">
-            </div>
-            <div
-                class="absolute -top-[140px] -left-[116px] w-[253px] h-[206px] border-[6px] opacity-40 border-white rounded-[50%] ">
-            </div>
+            <div class="absolute -bottom-[140px] -right-[116px] w-[253px] h-[206px] border-[6px] border-white rounded-[50%]"></div>
+            <div class="absolute -top-[140px] -left-[116px] w-[253px] h-[206px] border-[6px] opacity-40 border-white rounded-[50%]"></div>
         </div>
-
-        <div class="w-full h-full flex flex-col lg:flex-row mt-12 pb-10 border-b-2">
-            <div class="h-full w-full">
-                <div class="flex flex-col">
-                    <div class="lg:w-[400px] w-full h-full">
-                        <img class="w-[300px]" src="./assets/img/logo1.png" alt="" />
-                        <p class="lg:text-[18px] font-normal mt-7">HiSocial Digital gives you ease in learning
-                            and improving your skills to become a professional.</p>
-                    </div>
-                    <div class="flex justify-normal gap-4 w-full mt-8">
-                        <div
-                            class="group flex justify-center items-center h-11 w-11 hover:bg-[#2563EB] rounded-full">
-                            <img class="text-white" src="./assets/icons/1.svg" alt="logo twitter" />
-                        </div>
-                        <div
-                            class="group flex justify-center items-center h-11 w-11 hover:bg-[#2563EB]  rounded-full">
-                            <img class="text-white" src="./assets/icons/2.svg" alt="logo facebook" />
-                        </div>
-                        <div
-                            class="group flex justify-center items-center h-11 w-11 hover:bg-[#2563EB]  rounded-full">
-                            <img class="text-white" src="./assets/icons/3.svg" alt="logo instagram" />
-                        </div>
-                        <div
-                            class="group flex justify-center items-center h-11 w-11 hover:bg-[#2563EB]  rounded-full">
-                            <img class="text-white" src="./assets/icons/4.svg" alt="logo github" />
-                        </div>
-                    </div>
+        <div class="flex flex-col lg:flex-row gap-10 py-10">
+            <div class="lg:flex-[44%]">
+                <img src="assets/img/logo1.png" class="h-14 lg:h-16 xl:h-auto" alt="logo hi-social" />
+                <p class="mt-4 xl:mt-5 text-sm lg:text-base xl:text-xl">HiSocial Digital gives you ease in learning
+                    and improving your skills to become a professional.</p>
+                <div class="flex justify-center lg:justify-normal gap-4 w-full mt-8">
+                    <div
+                        class="group flex justify-center items-center h-11 w-11 hover:bg-[#2563EB] border-[2px] rounded-full">
+                        <img class="text-white" src="assets/icons/1.svg" alt="logo twitter" /></div>
+                    <div
+                        class="group flex justify-center items-center h-11 w-11 hover:bg-[#2563EB] border-[2px] rounded-full">
+                        <img class="text-white" src="assets/icons/2.svg" alt="logo facebook" /></div>
+                    <div
+                        class="group flex justify-center items-center h-11 w-11 hover:bg-[#2563EB] border-[2px] rounded-full">
+                        <img class="text-white" src="assets/icons/3.svg" alt="logo instagram" /></div>
+                    <div
+                        class="group flex justify-center items-center h-11 w-11 hover:bg-[#2563EB] border-[2px] rounded-full">
+                        <img class="text-white" src="assets/icons/4.svg" alt="logo github" /></div>
                 </div>
             </div>
-            <div class="h-full w-full mx-auto flex flex-col mt-10 lg:my-0">
-                <div class="flex flex-row">
-                    <div class="w-full h-full lg:-mr-9 ">
-                        <h1 class="text-[#2563EB] lg:text-[20px] text-[18px] font-semibold lg:mb-4">COMPANY</h1>
-                        <div class="font-normal lg:text-[16px] text-[14px]">
-                            <p class="py-1">About</p>
-                            <p class="py-1">Features</p>
-                            <p class="py-1">Works</p>
-                            <p class="py-1">Career</p>
-                        </div>
-                    </div>
-                    <div class="w-full h-full mx-2">
-                        <h1 class="text-[#2563EB] lg:text-[20px] text-[18px] font-semibold lg:mb-4">HELP</h1>
-                        <div class="font-normal lg:text-[16px] text-[14px]">
-                            <p class="py-1">Customer Support</p>
-                            <p class="py-1">Delivery Details</p>
-                            <p class="py-1">Terms & Conditions</p>
-                            <p class="py-1">Privacy Policy</p>
-                        </div>
-                    </div>
-                    <div class="w-full h-full">
-                        <h1 class="text-[#2563EB] lg:text-[20px] text-[18px] font-semibold lg:mb-4">RESOURCE
-                        </h1>
-                        <div class="font-normal lg:text-[16px] text-[14px]">
-                            <p class="py-1">Free Ebooks</p>
-                            <p class="py-1">Development Tutorial</p>
-                            <p class="py-1">How To - Blog</p>
-                            <p class="py-1">Youtube Playlist</p>
-                        </div>
-                    </div>
+            <div class="flex lg:flex-[56%] gap-6 lg:gap-0 lg:pl-10">
+                <div class="flex-1">
+                    <h4 class="font-bold text-[#2563EB]">COMPANY</h4>
+                    <ul class="mt-3 lg:mt-6 space-y-2 text-sm text-[#52525B]">
+                        <li>About</li>
+                        <li>Features</li>
+                        <li>Works</li>
+                        <li>Career</li>
+                    </ul>
+                </div>
+                <div class="flex-1">
+                    <h4 class="font-bold text-[#2563EB]">HELP</h4>
+                    <ul class="mt-3 lg:mt-6 space-y-2 text-sm text-[#52525B]">
+                        <li>Customer Support</li>
+                        <li>Delivery Details</li>
+                        <li>Terms & Conditions</li>
+                        <li>Privacy Policy</li>
+                    </ul>
+                </div>
+                <div class="flex-1">
+                    <h4 class="font-bold text-[#2563EB]">RESOURCES</h4>
+                    <ul class="mt-3 lg:mt-6 space-y-2 text-sm text-[#52525B]">
+                        <li>Free eBooks</li>
+                        <li>Development Tutorial</li>
+                        <li>How to - Blog</li>
+                        <li>Youtube Playlist</li>
+                    </ul>
                 </div>
             </div>
         </div>
-
-        <div class="mt-4 flex justify-center items-center text-center font-light text-[12px] lg:text-[16px]">
-            <p>© 2022 HISOCIAL DIGITAL, ALL RIGHTS RESERVED DOWNED BY PT TALENTA SINERGI GROUP</p>
+        <div class="py-4 text-center">
+            <hr />
+            <p class="py-4 text-xs lg:text-sm xl:text-base text-gray-500">© 2022 HISOCIAL DIGITAL, ALL RIGHTS
+                RESERVEDDOWNED BY PT TALENTA SINERGI GROUP</p>
         </div>
     </div>
 </footer>
-<!-- End Footer -->
+<!-- Akhir Footer -->

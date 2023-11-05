@@ -5,7 +5,7 @@
 
         <!-- Banner -->
         <section
-            class="max-w-[1215px] mx-auto lg:mt-40 mt-[100px] md:w-10/12 font-plus-jakarta-sans gap-y-16 mb-24 grid grid-cols-1  md:gap-x-7 lg:mb-20 md:grid-cols-7 lg:gap-x-16 px-4 lg:px-0">
+            class="max-w-[1215px] mx-auto  mt-[50px] md:w-10/12 font-plus-jakarta-sans gap-y-16 mb-24 grid grid-cols-1  md:gap-x-7 lg:mb-20 md:grid-cols-7 lg:gap-x-16 px-4 lg:px-0">
             <div class="order-last space-y-5 md:order-first lg:space-y-10 md:col-span-3">
                 <h1 class="font-medium text-3xl md:text-left lg:text-6xl">Do New Things and Develop With us
                 </h1>

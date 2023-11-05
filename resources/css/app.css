@@ -1,0 +1,94 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import 'swiper/css/bundle';
+
+@layer base {
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        font-family: 'CabinetGrotesk-Medium', sans-serif;
+    }
+
+    p,
+    a,
+    span,
+    li {
+        font-family: 'Inter', sans-serif;
+    }
+
+    button {
+        font-weight: 700;
+    }
+
+
+@font-face {
+    font-family: 'CabinetGrotesk-Regular';
+    src: url('./fonts/CabinetGrotesk-Regular.woff2') format('woff2'),
+        url('./fonts/CabinetGrotesk-Regular.woff') format('woff'),
+        url('./fonts/CabinetGrotesk-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-display: swap;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CabinetGrotesk-Medium';
+    src: url('./fonts/CabinetGrotesk-Medium.woff2') format('woff2'),
+        url('./fonts/CabinetGrotesk-Medium.woff') format('woff'),
+        url('./fonts/CabinetGrotesk-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-display: swap;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CabinetGrotesk-Bold';
+    src: url('./fonts/CabinetGrotesk-Bold.woff2') format('woff2'),
+        url('./fonts/CabinetGrotesk-Bold.woff') format('woff'),
+        url('./fonts/CabinetGrotesk-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-display: swap;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CabinetGrotesk-Extrabold';
+    src: url('./fonts/CabinetGrotesk-Extrabold.woff2') format('woff2'),
+        url('./fonts/CabinetGrotesk-Extrabold.woff') format('woff'),
+        url('./fonts/CabinetGrotesk-Extrabold.ttf') format('truetype');
+    font-weight: 800;
+    font-display: swap;
+    font-style: normal;
+}
+}
+@layer components {
+    .input {
+        @apply py-3 px-3 text-sm text-white placeholder:text-white outline-none bg-[#2563EB] border rounded-lg
+    }
+    .btn-outline {
+        @apply bg-white border border-blue-500 text-blue-500 px-3 py-2 ;
+    }
+    .btn-blue {
+        @apply bg-blue-500 px-4 py-3  hover:bg-blue-600 active:bg-blue-700 text-white;
+    }
+    .btn-dark {
+        @apply bg-blue-500 px-4 py-3  hover:bg-blue-600 active:bg-blue-700 text-white;
+    }
+    .btn-yellow {
+        @apply bg-yellow-500 px-3 py-3  hover:bg-yellow-600 active:bg-yellow-700 text-white;
+    }
+    .btn-white {
+        @apply bg-white px-3 py-3  hover:bg-gray-100 active:bg-gray-200;
+    }
+    .liquid-after {
+        @apply after:absolute after:content-[''] after:w-[140px]  after:rounded-br-[24%] after:-rotate-[12deg] after:h-[140px] after:shadow-[10px_60px_0px_rgba(0,143,255,1)] after:right-[176px] after:-bottom-[15px]
+    }
+    .liquid-before {
+        @apply before:absolute before:content-[''] before:w-[140px]  before:rounded-br-[24%] before:rotate-[12deg] before:h-[140px] before:shadow-[60px_10px_0px_rgba(0,143,255,1)] before:-right-[15px] before:bottom-[176px] before:z-10
+    }
+}

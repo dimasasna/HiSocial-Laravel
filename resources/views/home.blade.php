@@ -4,8 +4,8 @@
 <div class="max-w-[1920px] sm:max-w-full md:max-w-full lg:max-w-full xl:max-w-[1920px] mx-auto">
 
     <!-- Banner -->
-    <section class="mt-4 lg:mt-16 relative flex flex-col items-center font-plus-jakarta-sans sm:w-full px-6">
-        <div class="relative z-20 flex flex-row mt-[80px] gap-5 max-w-[1215px] mx-auto lg:mb-10 ">
+    <section class="lg:mt-0 relative flex flex-col items-center font-plus-jakarta-sans sm:w-full px-6">
+        <div class="relative z-20 flex flex-row mt-[40px] gap-5 max-w-[1215px] mx-auto lg:mb-10 ">
             <div class="w-full h-full">
                 <h1 class="text-[30px] leading-tight font-medium text-[#001D33] lg:text-[55px] ">Keep Growing With
                     Forward Thinking With Us.</h1>

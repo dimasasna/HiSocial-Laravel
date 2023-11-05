@@ -61,7 +61,7 @@
 
     <!-- Social Media Management -->
     <div class="relative w-full px-5 lg:px-32 xl:px-0 py-8 lg:py-11 lg:mt-14">
-        <div class="relative max-w-[1180px] w-full mx-auto lg:pb-12 border-b-2">
+        <div class="relative max-w-[1215px] w-full mx-auto lg:pb-12 border-b-2">
             <h1 class="text-4xl text-center lg:text-left lg:text-6xl xl:text-7xl font-bold leading-none text-pb-normal-active">Social Media<br /><span class="text-p-normal">Management</span></h1>
             <div class="grid grid-cols-2 lg:grid-cols-3 gap-2 lg:gap-5 mt-6 lg:mt-8">
                 <button class="group rounded-lg lg:rounded-xl row-start-1 col-start-1 col-span-2 lg:col-span-1 overflow-hidden">
@@ -113,7 +113,7 @@
 
     <!-- Branding Identity Visual -->
     <div class="relative w-full px-5 lg:px-32 xl:px-0 py-8 lg:py-11">
-        <div class="relative max-w-[1180px] w-full mx-auto lg:pb-12 border-b-2">
+        <div class="relative max-w-[1215px] w-full mx-auto lg:pb-12 border-b-2">
             <h1 class="text-4xl text-center lg:text-left lg:text-6xl xl:text-7xl font-bold leading-none text-pb-normal-active">Branding <br /><span class="text-p-normal">Identity Visual</span></h1>
             <div class="grid grid-cols-2 lg:grid-cols-3 gap-2 lg:gap-5 mt-6 lg:mt-8">
                 <button class="group rounded-lg lg:rounded-xl row-start-1 col-start-1 col-span-2 lg:col-span-1 overflow-hidden">
@@ -165,7 +165,7 @@
 
     <!-- Logo Branding Indentity -->
     <div class="relative w-full px-5 lg:px-32 xl:px-0 py-8 lg:py-11">
-        <div class="relative max-w-[1180px] w-full mx-auto lg:pb-12 border-b-2">
+        <div class="relative max-w-[1215px] w-full mx-auto lg:pb-12 border-b-2">
             <h1 class="text-4xl text-center lg:text-left lg:text-6xl xl:text-7xl font-bold leading-none text-pb-normal-active">Logo Branding <br /><span class="text-p-normal">Indentity</span></h1>
             <div class="grid grid-cols-2 lg:grid-cols-3 gap-2 lg:gap-5 mt-6 lg:mt-8">
                 <button class="group rounded-lg lg:rounded-xl row-start-1 col-start-1 col-span-2 lg:col-span-1 overflow-hidden">
@@ -217,7 +217,7 @@
 
     <!-- Website And System -->
     <div class="relative w-full px-5 lg:px-32 xl:px-0 py-8 lg:py-11">
-        <div class="relative max-w-[1180px] w-full mx-auto lg:pb-12 border-b-2">
+        <div class="relative max-w-[1215px] w-full mx-auto lg:pb-12 border-b-2">
             <h1 class="text-4xl text-center lg:text-left lg:text-6xl xl:text-7xl font-bold leading-none text-pb-normal-active">Website<br /><span class="text-p-normal">And System</span></h1>
             <div class="grid grid-cols-2 lg:grid-cols-3 gap-2 lg:gap-5 mt-6 lg:mt-8">
                 <button class="group rounded-lg lg:rounded-xl row-start-1 col-start-1 col-span-2 lg:col-span-1 overflow-hidden">
@@ -269,7 +269,7 @@
 
     <!-- Website And System -->
     <div class="relative w-full px-5 lg:px-32 xl:px-0 py-8 lg:py-11">
-        <div class="relative max-w-[1180px] w-full mx-auto lg:pb-12 border-b-2">
+        <div class="relative max-w-[1215px] w-full mx-auto lg:pb-12 border-b-2">
             <h1 class="text-4xl text-center lg:text-left lg:text-6xl xl:text-7xl font-bold leading-none text-pb-normal-active">Digital Marketing<br /><span class="text-p-normal">Startegy</span></h1>
             <div class="grid grid-cols-2 lg:grid-cols-3 gap-2 lg:gap-5 mt-6 lg:mt-8">
                 <button class="group rounded-lg lg:rounded-xl row-start-1 col-start-1 col-span-2 lg:col-span-1 overflow-hidden">
@@ -322,7 +322,7 @@
     <!-- Client Say -->
         <div class="relative w-full px-5 lg:px-32 xl:px-0 py-8 lg:py-11 lg:mt-16">
             <div
-                class="relative lg:flex gap-6 max-w-[1180px] w-full mx-auto p-8 bg-[#E6F1FA] rounded-2xl overflow-hidden lg:overflow-visible">
+                class="relative lg:flex gap-6 max-w-[1215px] w-full mx-auto p-8 bg-[#E6F1FA] rounded-2xl overflow-hidden lg:overflow-visible">
                 <img src="assets/img/portofolio/client-say-texture.svg"
                     class="absolute lg:top-0 lg:bottom-0 right-0 lg:right-0 h-[200px] max-w-none lg:max-w-full lg:h-full z-0"
                     alt="texture" />
@@ -377,7 +377,7 @@
                                 Started Now</button>
                         </div>
                         <div class="flex-1 px-10 pt-16 pb-10 text-center hover:rounded-br-xl">
-                            <h4 class="text-xl xl:text-2xl font-bold text-p-normal text-[#008FFF]">HiGold</h4>
+                            <h4 class="text-xl xl:text-2xl font-bold text-p-normal ">HiGold</h4>
                             <p class="mt-3 text-2xl font-bold">IDR 1.500.000</p>
                             <p class="text-sm text-[#4B5768]">/ Month</p>
                             <button
@@ -640,7 +640,7 @@
 
         <!-- Transforms Your Brands -->
         <div class="px-5 lg:px-32 xl:px-0 py-8 lg:py-11">
-            <div class="max-w-[1180px] w-full mx-auto pt-6 pb-20 lg:px-20 text-center">
+            <div class="max-w-[1215px] w-full mx-auto pt-6 pb-20 lg:px-20 text-center">
                 <h1
                     class="px-6 lg:px-0 text-2xl lg:text-4xl xl:text-5xl font-bold lg:leading-tight xl:leading-tight text-pb-normal-active">
                     Ready to transform your brand?</h1>
