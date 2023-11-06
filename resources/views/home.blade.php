@@ -154,8 +154,8 @@
                 wide range of
                 sectors with other work, including cashier systems and digital marketing learning.</p>
         </div>
-        <div class="flex flex-col lg:flex-row flex-wrap mt-6 justify-center">
-            <div class="lg:w-[50%] relative ">
+        <div class="flex flex-col lg:flex-row flex-wrap mt-6 justify-center  max-w-full max-h-full">
+            <div class="lg:w-[50%] w-full h-full relative ">
                 <img class="w-full opacity-80" src="assets/img/other-service-1.png" alt="">
                 <div
                     class="relative flex bg-white  p-4 justify-between lg:w-[409px]  lg:mx-auto h-[51px] items-center lg:rounded-full lg:bottom-24 bottom-7 shadow-[0_3px_10px_rgb(0,0,0,0.2)] rounded-[10px]">
@@ -165,7 +165,7 @@
                         More</button>
                 </div>
             </div>
-            <div class="lg:w-[50%] relative ">
+            <div class="lg:w-[50%]  w-full h-full relative ">
                 <img class="w-full opacity-80 " src="assets/img/other-service-2.png" alt="">
                 <div
                     class="relative flex bg-white  p-4 justify-between lg:w-[409px]  lg:mx-auto h-[51px] items-center lg:rounded-full lg:bottom-24 bottom-7 shadow-[0_3px_10px_rgb(0,0,0,0.2)] rounded-[10px]">
@@ -178,6 +178,57 @@
         </div>
     </section>
     <!-- End Other Service -->
+
+    <!-- Our Success Project BabyKid-->
+    <section class="max-w-[1215px] h-full mx-auto mt-4 px-4 lg:px-0">
+        <div class="flex flex-col lg:flex-row">
+            <div class="lg:w-[52%] w-full">
+                <div class="flex items-center">
+                    <div class="w-[156px] h-1 bg-[#008FFF] me-5"></div>
+                    <h1 class="text-[32px] text-[#008FFF] font-bold">BabyKid</h1>
+                </div>
+                <h1 class="text-[32px] lg:text-[65px] text-[#002B44]">Our Success Project</h1>
+                <p class="lg:text-[20px] -tracking-tight opacity-70 text-justify">we do more than just organize social media
+                    management. We ensure our services are professional and our client's delight is our goal. Our
+                    success in working with Babykid, be one of the successful clients we have assisted.</p>
+                <div class="mt-6">
+                    <h1 class="text-[32px] text-[#002B44]">Project Statistic</h1>
+                    <div
+                        class="bg-white shadow-[0_3px_10px_rgb(0,0,0,0.2)] mt-4 w-full h-full flex flex-row-3 justify-center items-center text-center p-6 rounded-[20px] divide-x-2">
+                        <div class="flex flex-col justify-center items-center px-2">
+                            <img class="w-12" src="assets/icons/babykid2.svg" alt="">
+                            <h1 class="text-[20px] lg:text-[32px] text-[#008FFF] mt-2 font-bold">69.6%</h1>
+                            <p class="text-[14px] lg:text-[16px]">Increase Account Reached</p>
+                        </div>
+                        <div class="flex flex-col justify-center items-center px-2">
+                            <img class="w-12" src="assets/icons/babykid1.svg" alt="">
+                            <h1 class="text-[20px] lg:text-[32px] text-[#008FFF] mt-2 font-bold">51.2%</h1>
+                            <p class="text-[14px] lg:text-[16px]">Increase Profile Visited</p>
+                        </div>
+                        <div class="flex flex-col justify-center items-center px-2">
+                            <img class="w-12" src="assets/icons/babykid3.svg" alt="">
+                            <h1 class="text-[20px] lg:text-[32px] text-[#008FFF] mt-2 font-bold">13.3%</h1>
+                            <p class="text-[14px] lg:text-[16px]">Increase New Likes & Follow</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="lg:w-[48%] w-full flex justify-center lg:justify-end mt-4">
+                <img class="relative z-0 object-none" src="assets/img/babykid-poster1.png" alt="">
+                <img class="absolute z-10 mr-28 mt-8 hidden lg:block" src="assets/img/babykid-poster2.png" alt="">
+                <div class="bg-white w-[430px] h-auto shadow-[0_3px_10px_rgb(0,0,0,0.2)] absolute z-10 mt-[420px] mr-4 rounded-[15px] p-4 hidden lg:block">
+                    <div class="flex flex-row">
+                        <img  src="assets/img/profil-babykid.png" alt="">
+                        <div class="ml-4">
+                            <h1 class="font-bold">Silvia</h1>
+                            <p class="leading-relaxed text-[10px] opacity-60">Collaborating with HiSocial is a wonderful opportunity for which we are thankful,  Your ability to shape our online brand presence, engage with our audience, and drive growth has been impressive. Keep up the excellent work.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Our Success Project -->
 
     <!-- Project -->
     <section class="max-w-[1215px] h-full mx-auto lg:mb-20 mb-4 mt-8 lg:mt-12 px-4 lg:px-0">
@@ -311,7 +362,7 @@
                 <h1 class="text-[34px] lg:text-[36px] my-4">IDR. 1.500.000 <span
                         class="text-[16px] font-thin">/Month</span></h1>
                 <button
-                    class="w-full h-[44px] outline outline-[#008FFF] hover:bg-slate-200 rounded-[36px] text-[#008FFF] my-4">Get
+                    class="w-full h-[44px] border border-[#008FFF] hover:bg-slate-200 rounded-[36px] text-[#008FFF] my-4">Get
                     Started Now</button>
                 <div class="mt-8 flex items-center justify-start gap-4">
                     <img src="assets/icons/ceklist.svg" alt="">
@@ -352,7 +403,7 @@
                 <h1 class="text-[34px] lg:text-[36px] my-4">IDR. 2.500.000 <span
                         class="text-[16px] font-thin">/Month</span></h1>
                 <button
-                    class="w-full h-[44px] outline outline-[#008FFF] hover:bg-slate-200 rounded-[36px] text-[#008FFF] my-4">Get
+                    class="w-full h-[44px] border border-[#008FFF] hover:bg-slate-200 rounded-[36px] text-[#008FFF] my-4">Get
                     Started Now</button>
                 <div class="mt-8 flex items-center justify-start gap-4">
                     <img src="assets/icons/ceklist.svg" alt="">
@@ -393,7 +444,7 @@
                 <h1 class="text-[34px] lg:text-[36px] my-4">IDR. 4.000.000 <span
                         class="text-[16px] font-thin">/Month</span></h1>
                 <button
-                    class="w-full h-[44px] outline outline-[#008FFF] hover:bg-slate-200 rounded-[36px] text-[#008FFF] my-4">Get
+                    class="w-full h-[44px] border border-[#008FFF] hover:bg-slate-200 rounded-[36px] text-[#008FFF] my-4">Get
                     Started Now</button>
                 <div class="mt-8 flex items-center justify-start gap-4">
                     <img src="assets/icons/ceklist.svg" alt="">
