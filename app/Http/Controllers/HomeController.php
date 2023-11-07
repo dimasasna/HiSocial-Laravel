@@ -8,7 +8,8 @@ class HomeController extends Controller
 {
     public function index(){
         return view('home', [
-            'title' => 'Home'
+            'title' => 'Home',
+            'logo' => 'assets/img/logo-hisocial.png'
         ]);
     }
 }

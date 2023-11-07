@@ -8,7 +8,8 @@ class AboutController extends Controller
 {
     public function index(){
         return view('about', [
-            'title' => 'About Us'
+            'title' => 'About Us',
+            'logo' => 'assets/img/logo-hisocial.png'
         ]);
     }
 }

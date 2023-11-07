@@ -21,42 +21,50 @@ Route::get('/about', [AboutController::class,'index']);
 
 Route::get('/contact', function () {
     return view('contact',[
-        'title' => 'Contact Us'
+        'title' => 'Contact Us',
+        'logo' => 'assets/img/logo-hisocial.png'
     ]);
 });
 Route::get('/portofolio', function () {
     return view('portofolio',[
-        'title' => 'Portofolio'
+        'title' => 'Portofolio',
+        'logo' => 'assets/img/logo-hisocial.png'
     ]);
 });
 Route::get('/service', function () {
     return view('service',[
-        'title' => 'Service'
+        'title' => 'Service',
+        'logo' => 'assets/img/logo-hisocial.png'
     ]);
 });
 Route::get('/service/media-social-management', function () {
     return view('media-social-management',[
-        'title' => 'Media Social Management'
+        'title' => 'Media Social Management',
+        'logo' => 'assets/img/logo-hisocial.png'
     ]);
 });
 Route::get('/service/digital-marketing', function () {
     return view('digital-marketing',[
-        'title' => 'Digital Marketing'
+        'title' => 'Digital Marketing',
+        'logo' => 'assets/img/logo-hisocial.png'
     ]);
 });
 Route::get('/service/logo-branding-identity', function () {
     return view('logo-branding-identity',[
-        'title' => 'Logo Branding Identity'
+        'title' => 'Logo Branding Identity',
+        'logo' => 'assets/img/logo-hisocial.png'
     ]);
 });
 Route::get('/service/branding-identity-visual', function () {
     return view('branding-identity-visual',[
-        'title' => 'Branding Identity Visual'
+        'title' => 'Branding Identity Visual',
+        'logo' => 'assets/img/logo-hisocial.png'
     ]);
 });
 Route::get('/service/website-system-service', function () {
     return view('website-system-service',[
-        'title' => 'Website & System Service'
+        'title' => 'Website & System Service',
+        'logo' => 'assets/img/logo-hisocial.png'
     ]);
 });
 

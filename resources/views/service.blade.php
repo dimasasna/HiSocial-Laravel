@@ -42,7 +42,7 @@
                 individual, by helping and
                 providing needs for them, making us understand that a design has a sense so that users feel comfortable
                 and interested in buying it.</p>
-            <div class="lg:w-[30%] flex justify-end items-end lg:gap-6 gap-2 mt-4 lg:mt-0">
+            <div class="lg:w-[30%] flex justify-end items-end  gap-2 mt-4 lg:mt-0">
                 <button
                     class="w-full left-0 bg-[#008FFF] rounded-[10px] h-[55px]  text-white text-[22px] font-thin  hover:bg-blue-600">Social
                     Media Management</button>
