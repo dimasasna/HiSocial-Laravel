@@ -2,10 +2,10 @@
 
 @section('container')
 <!-- Hero -->
-<div class="relative w-[100vw-1px] h-[calc(100vh-74px)] lg:h-[calc(100vh-80px)] xl:h-[calc(100vh-100px)] mx-auto">
+<div class="relative w-[100vw-1px] h-[calc(100vh-74px)] lg:h-[calc(100vh-80px)] xl:h-[calc(100vh-80px)] mx-auto">
     <div class="absolute inset-0 w-full h-full bg-[rgba(176,211,238,0.50)] z-0"></div>
 
-            <img 
+            <img
                 src="/assets/img/service/banner-social-media-management.png"
                 class="relative w-full h-full object-cover object-center z-10"
                 alt="gambar hero"
@@ -71,7 +71,7 @@
                         </div>
                         <div class="flex-[64%] rounded-xl overflow-hidden drop-shadow-[0px_5px_40px_rgba(0,0,0,0.16)]">
                             <img src="/assets/img/service/strategy-approach2.png" alt="gambar">
-                        </div> 
+                        </div>
                     </div>
                     <div class="flex gap-3 lg:gap-5">
                         <div class="flex-1 rounded-xl overflow-hidden drop-shadow-[0px_5px_40px_rgba(0,0,0,0.16)]">
@@ -80,7 +80,7 @@
                         <div class="flex-1 rounded-xl overflow-hidden drop-shadow-[0px_5px_40px_rgba(0,0,0,0.16)]">
                             <img src="/assets/img/service/strategy-approach4.png" alt="gambar">
                         </div>
-                    </div>  
+                    </div>
                 </div>
             </div>
         </div>
@@ -98,7 +98,7 @@
                     <div class="relative h-full rounded-xl overflow-hidden drop-shadow-[0px_5px_40px_rgba(0,0,0,0.16)]">
                         <img src="/assets/img/service/tailored-approach2.png" class="relative h-full w-full object-cover" alt="gambar">
                     </div>
-                </div>  
+                </div>
             </div>
             <div class="lg:flex-1">
                 <h1 class="text-2xl lg:text-4xl xl:text-5xl font-bold lg:leading-tight xl:leading-tight text-pb-normal-active">Our Tailored Approach</h1>
@@ -245,10 +245,10 @@
                     <p class="lg:max-w-[50%] xl:max-w-[60%] mt-4 xl:mt-5 text-base lg:text-lg xl:text-2xl">When you choose Hisocial you can expect:</p>
                 </div>
                 <div class="hidden lg:block flex-1">
-        
+
                 </div>
             </div>
-            <div class="flex flex-col-reverse lg:flex-row gap-6 lg:gap-12 items-center pb-8 lg:pb-0 lg:p-4 lg:p-8 bg-white lg:drop-shadow-[-4px_4px_8px_rgba(0,0,0,0.25)] space-y-5 rounded-xl">
+            <div class="flex flex-col-reverse lg:flex-row gap-6 lg:gap-12 items-center pb-8 lg:pb-0  lg:p-8 bg-white lg:drop-shadow-[-4px_4px_8px_rgba(0,0,0,0.25)] space-y-5 rounded-xl">
                 <div class="flex-1">
                     <ul class="list-inside">
                         <li class="flex gap-2 xl:gap-3 py-1">
@@ -292,7 +292,7 @@
                             <img src="/assets/img/service/you-can-expect2.png" class="flex-1 w-full object-cover rounded-xl drop-shadow-[0px_5px_20px_rgba(0,0,0,0.25)]" alt="gambar">
                         </div>
                         <div>
-                            <img src="/assets/img/service/you-can-expect3.png" class="flex-1 w-full object-cover rounded-xl drop-shadow-[0px_5px_20px_rgba(0,0,0,0.25)]" alt="gambar">  
+                            <img src="/assets/img/service/you-can-expect3.png" class="flex-1 w-full object-cover rounded-xl drop-shadow-[0px_5px_20px_rgba(0,0,0,0.25)]" alt="gambar">
                         </div>
                     </div>
                 </div>
@@ -303,4 +303,3 @@
     @include('partials.design-price')
 
 @endsection
-    

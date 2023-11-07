@@ -119,7 +119,7 @@
                                     <h4 class="flex justify-center flex-1 lg:h-[20px] xl:h-6 opacity-60"><img
                                             src="/assets/icons/check-circle.svg" alt="icon check" /></h4>
                                 </div>
-        
+
                             </div>
                         </div>
                     </div>
@@ -140,7 +140,7 @@
                         <p class="text-center text-[14px] font-light">/Month</p>
                         <div class="flex justify-center">
                             <button
-                                class="mt-6 w-full h-[44px] rounded-[10px] outline outline-[#6FBFFF] text-[#6FBFFF]">Get
+                                class="mt-6 w-full h-[44px] rounded-[10px] border border-[#008FFF] text-[#008FFF]">Get
                                 Started Now</button>
                         </div>
                         <h1 class="mt-8 text-lg">Benefits</h1>
@@ -238,7 +238,7 @@
                         <p class="text-center text-[14px] font-light">/Month</p>
                         <div class="flex justify-center">
                             <button
-                                class="mt-6 w-full h-[44px] rounded-[10px] outline outline-[#6FBFFF] text-[#6FBFFF]">Get
+                                class="mt-6 w-full h-[44px] rounded-[10px] border border-[#008FFF] text-[#008FFF]">Get
                                 Started Now</button>
                         </div>
                         <h1 class="mt-8 text-lg">Benefits</h1>

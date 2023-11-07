@@ -2,8 +2,8 @@
 
 @section('container')
 <!-- Hero -->
-<div class="relative w-[100vw-1px] h-[calc(100vh-74px)] lg:h-[calc(100vh-80px)] xl:h-[calc(100vh-100px)] mx-auto">
-            <img 
+<div class="relative w-[100vw-1px] h-[calc(100vh-74px)] lg:h-[calc(100vh-80px)] xl:h-[calc(100vh-80px)] mx-auto">
+            <img
                 src="/assets/img/service/banner-logo-branding-identity.png"
                 class="relative w-full h-full object-cover object-center z-10"
                 alt="gambar hero"
@@ -33,28 +33,28 @@
             <div class="lg:flex-[52%] grid grid-cols-1 lg:grid-cols-2 mt-6 lg:mt-0 gap-4 lg:gap-6 w-full h-full">
                 <div class="relative h-[240px] md:h-auto p-6 xl:pb-10 bg-white space-y-1 rounded-xl drop-shadow-[0px_5px_20px_rgba(0,0,0,0.10)] shadow-[0px_6px_0px_rgba(0,143,255,1)] z-10">
                     <span class="w-[36px] h-[36px] p-2 inline-block bg-p-normal rounded-full">
-                        <img src="/assets/icons/our-service1.png" class="w-8" alt="design--v1"/>                                        
+                        <img src="/assets/icons/our-service1.png" class="w-8" alt="design--v1"/>
                     </span>
                     <p class="font-bold pt-2 text-lg lg:text-xl text-[#008FFF]">Logo Design</p>
                     <p class="text-justify text-md lg:text-base leading-relaxed">Our expert designers craft unique logos that embody your brand's personality and values.</p>
                 </div>
                 <div class="relative h-[240px] md:h-auto p-6 xl:pb-10 bg-white space-y-1 rounded-xl drop-shadow-[0px_5px_20px_rgba(0,0,0,0.10)] shadow-[0px_6px_0px_rgba(0,143,255,1)] z-10">
                     <span class="w-[36px] h-[36px] p-2 inline-block bg-p-normal rounded-full">
-                        <img src="/assets/icons/our-service2.png" class="w-7" alt="design--v1"/>                                        
+                        <img src="/assets/icons/our-service2.png" class="w-7" alt="design--v1"/>
                     </span>
                     <p class="font-bold pt-2 text-lg lg:text-xl text-[#008FFF]">Branding Stragegy</p>
                     <p class="text-justify text-md lg:text-base leading-relaxed">We work with you to define a clear brand strategy that sets you apart from the competition.</p>
                 </div>
                 <div class="relative h-[240px] md:h-auto p-6 xl:pb-10 bg-white space-y-1 rounded-xl drop-shadow-[0px_5px_20px_rgba(0,0,0,0.10)] shadow-[0px_6px_0px_rgba(0,143,255,1)] z-10">
                     <span class="w-[36px] h-[36px] p-2 inline-block bg-p-normal rounded-full">
-                        <img src="/assets/icons/our-service3.png" class="w-7" alt="design--v1"/>                                        
+                        <img src="/assets/icons/our-service3.png" class="w-7" alt="design--v1"/>
                     </span>
                     <p class="font-bold pt-2 text-lg lg:text-xl text-[#008FFF]">Brand Guideline</p>
                     <p class="text-justify text-md lg:text-base leading-relaxed">We ensure alignment of branding materials on all your products.</p>
                 </div>
                 <div class="relative h-[240px] md:h-auto p-6 xl:pb-10 bg-white space-y-1 rounded-xl drop-shadow-[0px_5px_20px_rgba(0,0,0,0.10)] shadow-[0px_6px_0px_rgba(0,143,255,1)] z-10">
                     <span class="w-[36px] h-[36px] p-2 inline-block bg-p-normal rounded-full">
-                        <img src="/assets/icons/our-service4.png" class="w-7" alt="design--v1"/>                                        
+                        <img src="/assets/icons/our-service4.png" class="w-7" alt="design--v1"/>
                     </span>
                     <p class="font-bold pt-2 text-lg lg:text-xl text-[#008FFF]">Print & Digital Assets</p>
                     <p class="text-justify text-md lg:text-base leading-relaxed">we design all the collateral you need to convey your brand's message effectively.</p>
@@ -81,14 +81,14 @@
                         <div class="flex-1 space-y-6">
                             <div class="relative w-full h-[250px] lg:h-[260px] xl:h-[320px] px-6 pt-7 pb-8 bg-white space-y-1 rounded-xl drop-shadow-[0px_5px_20px_rgba(0,0,0,0.10)] shadow-[6px_6px_0px_rgba(0,143,255,1)] z-10">
                                 <span class="w-[36px] h-[36px] p-[6px] inline-block bg-p-normal rounded-full">
-                                    <img src="/assets/img/service/why-choose-us1.png" class="w-8" alt="design--v1"/>                                        
+                                    <img src="/assets/img/service/why-choose-us1.png" class="w-8" alt="design--v1"/>
                                 </span>
                                 <p class="font-bold pt-2 text-xl lg:text-2xl text-[#008FFF]">Experience</p>
                                 <p class="text-justify text-md lg:text-base xl:text-xl leading-relaxed">With years of experience in branding, we understand what it takes to create a strong brand presence.</p>
                             </div>
                             <div class="relative w-full h-[250px] lg:h-[260px] xl:h-[320px] px-6 pt-7 pb-8 bg-white space-y-1 rounded-xl drop-shadow-[0px_5px_20px_rgba(0,0,0,0.10)] shadow-[6px_6px_0px_rgba(0,143,255,1)] z-10">
                                 <span class="w-[36px] h-[36px] p-[6px] inline-block bg-p-normal rounded-full">
-                                    <img src="/assets/img/service/why-choose-us2.png" class="w-8" alt="design--v1"/>                                        
+                                    <img src="/assets/img/service/why-choose-us2.png" class="w-8" alt="design--v1"/>
                                 </span>
                                 <p class="font-bold pt-2 text-xl lg:text-2xl text-[#008FFF]">Client Success</p>
                                 <p class="text-justify text-md lg:text-base xl:text-xl leading-relaxed">We measure our success by the success of our clients. Check out our portfolio to see the brands we've transformed.</p>
@@ -97,7 +97,7 @@
                         <div class="flex-1">
                             <div class="relative w-full top-[25%] h-[250px] lg:h-[260px] xl:h-[320px] px-6 pt-7 pb-8 bg-white space-y-1 rounded-xl drop-shadow-[0px_5px_20px_rgba(0,0,0,0.10)] shadow-[6px_6px_0px_rgba(0,143,255,1)] z-10">
                                 <span class="w-[36px] h-[36px] p-[6px] inline-block bg-p-normal rounded-full">
-                                    <img src="/assets/img/service/why-choose-us3.png" class="w-8" alt="design--v1"/>                                        
+                                    <img src="/assets/img/service/why-choose-us3.png" class="w-8" alt="design--v1"/>
                                 </span>
                                 <p class="font-bold pt-2 text-xl lg:text-2xl text-[#008FFF]">Creativity</p>
                                 <p class="text-justify text-md lg:text-base xl:text-xl leading-relaxed">Our designers are passionate about creativity and innovation, ensuring your brand stands out in a crowded market.</p>
@@ -183,7 +183,7 @@
                     </div>
                 </div>
             </div>
-                
+
         </div>
     </div>
     <!-- Akhir Client Say -->
@@ -191,4 +191,3 @@
     @include('partials.design-price')
 
 @endsection
-    

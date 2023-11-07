@@ -2,9 +2,9 @@
 
 @section('container')
 <!-- Hero -->
-<div class="relative w-[100vw-1px] h-[calc(100vh-74px)] lg:h-[calc(100vh-80px)] xl:h-[calc(100vh-100px)] mx-auto">
+<div class="relative w-[100vw-1px] h-[calc(100vh-74px)] lg:h-[calc(100vh-80px)] xl:h-[calc(100vh-80px)] mx-auto">
             <div class="absolute inset-0 w-full h-full bg-[rgba(176,211,238,0.50)] z-0"></div>
-            <img 
+            <img
                 src="/assets/img/service/banner-social-media-management.png"
                 class="relative w-full h-full object-cover object-center z-10"
                 alt="gambar hero"
@@ -206,7 +206,7 @@
                     <h1
                         class="text-2xl lg:text-4xl xl:text-5xl font-bold lg:leading-tight xl:leading-tight text-pb-normal-active">
                         Our Success Project</h1>
-                    <button class="btn-blue hidden lg:block px-6 lg:px-12 lg:py-3 xl:px-14 xl:py-3 font-bold xl:text-xl bg-[#005AA0] bg-[#005AA0] rounded-xl">View our portfolio</button>
+                    <button class="btn-blue hidden lg:block px-6 lg:px-12 lg:py-3 xl:px-14 xl:py-3 font-bold xl:text-xl bg-[#005AA0]  rounded-xl">View our portfolio</button>
                 </div>
                 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 gap-3 lg:gap-5 py-8">
                     <div class="space-y-3 lg:space-y-4 p-3 lg:p-4 text-right bg-white rounded-t-xl lg:rounded-tl-xl">
@@ -287,7 +287,7 @@
                             </span>
                         </div>
                     </div>
-                    <button class="btn-blue lg:hidden mt-4 py-2 px-6 lg:px-12 lg:py-3 xl:px-14 xl:py-3 font-bold xl:text-xl bg-[#005AA0] bg-[#005AA0] rounded-xl">View our portfolio</button>
+                    <button class="btn-blue lg:hidden mt-4 py-2 px-6 lg:px-12 lg:py-3 xl:px-14 xl:py-3 font-bold xl:text-xl bg-[#005AA0]  rounded-xl">View our portfolio</button>
                 </div>
             </div>
         </div>
@@ -315,7 +315,7 @@
                         value of a product or service.</p>
                 </div>
                 <div class="hidden lg:block flex-[60%]">
-        
+
                 </div>
             </div>
         </div>
@@ -324,4 +324,3 @@
     @include('partials.design-price')
 
 @endsection
-    

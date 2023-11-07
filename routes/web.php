@@ -36,16 +36,27 @@ Route::get('/service', function () {
 });
 Route::get('/service/media-social-management', function () {
     return view('media-social-management',[
-        'title' => 'Service'
+        'title' => 'Media Social Management'
     ]);
 });
 Route::get('/service/digital-marketing', function () {
     return view('digital-marketing',[
-        'title' => 'Service'
+        'title' => 'Digital Marketing'
     ]);
 });
 Route::get('/service/logo-branding-identity', function () {
     return view('logo-branding-identity',[
-        'title' => 'Service'
+        'title' => 'Logo Branding Identity'
     ]);
 });
+Route::get('/service/branding-identity-visual', function () {
+    return view('branding-identity-visual',[
+        'title' => 'Branding Identity Visual'
+    ]);
+});
+Route::get('/service/website-system-service', function () {
+    return view('website-system-service',[
+        'title' => 'Website & System Service'
+    ]);
+});
+
