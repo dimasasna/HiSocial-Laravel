@@ -24,8 +24,72 @@
 
     <script src="/js/index.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
-    <script type="module">
-        const swiper = new Swiper('.swiper', {
+    <script type="module">import Swiper from 'https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.mjs'
+        const swiper3 = new Swiper('.website-swiper', {
+            effect: 'coverflow',
+            centeredSlides: true,
+            loop: true,
+            spaceBetween: 120,
+            breakpoints: {
+                767: {
+                    slidesPerView: 1.8,
+                }
+            },
+
+            coverflowEffect: {
+                rotate: 0,
+                stretch: 0,
+                depth: 100,
+                modifier: 2.5
+            },
+            navigation: {
+                nextEl: ".swiper-button-next",
+                prevEl: ".swiper-button-prev",
+            },
+
+        })
+        const swiper1 = new Swiper('.mySwiper', {
+            spaceBetween: 70,
+            loop: true,
+            pagination: {
+                el: '.myPagination',
+                clickable: true
+            },
+            breakpoints: {
+                767: {
+                    slidesPerView: 2
+                }
+            },
+            autoplay: {
+                delay: 2500,
+                disableOnInteraction: false,
+            },
+        });
+
+        const swiper2 = new Swiper(".swiper-project", {
+            breakpoints: {
+                767: {
+                    slidesPerView: 3.5,
+                    grid: {
+                        rows: 2,
+                        fill: "row"
+                    },
+
+                }
+            },
+            freeMode: true,
+            loop: true,
+            navigation: {
+                nextEl: ".swiper-button-next",
+                prevEl: ".swiper-button-prev",
+            },
+            autoplay: {
+                delay: 2500,
+                disableOnInteraction: false,
+            },
+            centeredSlides: true
+        });
+        const swiper = new Swiper('.swiper-home', {
             spaceBetween: 50,
             loop: true,
             navigation: {

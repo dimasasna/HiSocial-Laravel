@@ -41,7 +41,7 @@
             <a href="/">Home</a>
         </li>
         <li class="pb-2 hover:text-gray-400  hover:border-b-gray-300">
-            <a href="">Service</a>
+            <a href="/service">Service</a>
         </li>
         <li class="pb-2 hover:text-gray-400  hover:border-b-gray-300">
             <a href="/portofolio">Portofolio</a>
