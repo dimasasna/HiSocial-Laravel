@@ -116,7 +116,7 @@
             <div class="flex justify-center flex-col lg:block lg:bg-white lg:p-12 lg:pt-14 rounded-2xl space-y-8 lg:space-y-16 lg:drop-shadow-[0px_5px_20px_rgba(0,0,0,0.10)]">
                 <div class="flex flex-col md:flex-row justify-between items-center">
                     <h1 class="text-2xl lg:text-4xl xl:text-5xl font-bold lg:leading-tight xl:leading-tight text-pb-normal-active">Our Success Project</h1>
-                    <button class="hidden lg:block btn-blue px-6 lg:px-12 lg:py-3 xl:px-14 xl:py-3 mt-6 lg:mt-0 xl:mt-0 font-bold xl:text-xl bg-[#005AA0] bg-[#005AA0] rounded-xl">View our portfolio</button>
+                    <button class="hidden lg:block btn-blue px-6 lg:px-12 lg:py-3 xl:px-14 xl:py-3 mt-6 lg:mt-0 xl:mt-0 font-bold xl:text-xl  bg-[#005AA0] rounded-xl">View our portfolio</button>
                 </div>
                 <div class="grid grid-cols-2 lg:grid-cols-3 lg:grid-rows-[220px_230px_230px] xl:grid-rows-[250px_250px_250px] gap-3 lg:gap-5 h-full">
                     <button class="row-span-2 col-span-2 lg:row-start-1 lg:row-span-2 rounded-lg lg:rounded-xl overflow-hidden">
@@ -138,7 +138,7 @@
                         <img src="/assets/img/service/logo-branding/our-success-project6 copy.png" class="w-full h-full object-cover object-center hover:scale-105 transition-all duration-700" alt="gambar">
                     </button>
                 </div>
-                <button class="lg:hidden text-center mx-auto btn-blue px-6 lg:px-12 lg:py-3 xl:px-14 xl:py-3 mt-6 lg:mt-0 xl:mt-0 font-bold xl:text-xl bg-[#005AA0] bg-[#005AA0] rounded-xl">View our portfolio</button>
+                <button class="lg:hidden text-center mx-auto btn-blue px-6 lg:px-12 lg:py-3 xl:px-14 xl:py-3 mt-6 lg:mt-0 xl:mt-0 font-bold xl:text-xl  bg-[#005AA0] rounded-xl">View our portfolio</button>
             </div>
         </div>
     </div>
