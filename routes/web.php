@@ -34,8 +34,18 @@ Route::get('/service', function () {
         'title' => 'Service'
     ]);
 });
+Route::get('/service/media-social-management', function () {
+    return view('media-social-management',[
+        'title' => 'Service'
+    ]);
+});
 Route::get('/service/digital-marketing', function () {
     return view('digital-marketing',[
+        'title' => 'Service'
+    ]);
+});
+Route::get('/service/logo-branding-identity', function () {
+    return view('logo-branding-identity',[
         'title' => 'Service'
     ]);
 });
