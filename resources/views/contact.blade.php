@@ -5,7 +5,7 @@
  <!-- Hero -->
  <div class="w-full px-5 lg:px-32 xl:px-0 pt-4 pb-8 lg:pt-8 lg:py-8">
     <div class="max-w-[1215px] w-full mx-auto">
-        <div class="lg:flex lg:gap-14 lg:items-center space-y-6 lg:space-y-0">
+        <div class="lg:flex lg:gap-14 lg:items-center space-y-10 lg:space-y-0">
             <div class="lg:flex-[32%] xl:flex-[36%] ">
                 <div class="lg:w-full h-[340px] xl:h-[410px] rounded-2xl overflow-hidden shadow-[0px_8px_0px_0px_rgba(0,143,255,1)] lg:shadow-[8px_8px_0px_4px_rgba(0,143,255,1)]">
                     <img src="./assets/img/hero-contact-us.png" class="w-[417px] h-[410px] object-cover object-center " alt="gambar">
@@ -95,40 +95,40 @@
                 <section class="flex flex-col lg:flex-row gap-4 lg:gap-6 w-full">
                     <input
                         type="text"
-                        class="flex-1 border-2 px-4 py-2 text-md lg:px-6 lg:py-3 lg:px-7 lg:py-4 rounded-lg focus:outline-blue-300"
+                        class="flex-1 border lg:border-2 px-4 py-2 text-md lg:px-6 lg:py-3 xl:px-7 xl:py-4 rounded-lg focus:outline-blue-300"
                         placeholder="Name"
                     >
                     <input
                         type="text"
-                        class="flex-1 border-2 px-4 py-2 text-md lg:px-6 lg:py-3 lg:px-7 lg:py-4 rounded-lg focus:outline-blue-300"
+                        class="flex-1 border lg:border-2 px-4 py-2 text-md lg:px-6 lg:py-3 xl:px-7 xl:py-4 rounded-lg focus:outline-blue-300"
                         placeholder="Email"
                     >
                 </section>
                 <section class="flex flex-col lg:flex-row gap-4 lg:gap-6 w-full">
                     <input
                         type="text"
-                        class="flex-1 border-2 px-4 py-2 text-md lg:px-6 lg:py-3 lg:px-7 lg:py-4 rounded-lg focus:outline-blue-300"
+                        class="flex-1 border lg:border-2 px-4 py-2 text-md lg:px-6 lg:py-3 xl:px-7 xl:py-4 rounded-lg focus:outline-blue-300"
                         placeholder="Phone"
                     >
                     <input
                         type="text"
-                        class="flex-1 border-2 px-4 py-2 text-md lg:px-6 lg:py-3 lg:px-7 lg:py-4 rounded-lg focus:outline-blue-300"
+                        class="flex-1 border lg:border-2 px-4 py-2 text-md lg:px-6 lg:py-3 xl:px-7 xl:py-4 rounded-lg focus:outline-blue-300"
                         placeholder="Business Name"
                     >
                 </section>
                 <section class="flex flex-col lg:flex-row gap-4 lg:gap-6 w-full">
                     <input
                         type="text"
-                        class="flex-1 border-2 px-4 py-2 text-md lg:px-6 lg:py-3 lg:px-7 lg:py-4 rounded-lg focus:outline-blue-300"
+                        class="flex-1 border lg:border-2 px-4 py-2 text-md lg:px-6 lg:py-3 xl:px-7 xl:py-4 rounded-lg focus:outline-blue-300"
                         placeholder="Website/ Social Media"
                     >
                     <input
                         type="text"
-                        class="flex-1 border-2 px-4 py-2 text-md lg:px-6 lg:py-3 lg:px-7 lg:py-4 rounded-lg focus:outline-blue-300"
+                        class="flex-1 border lg:border-2 px-4 py-2 text-md lg:px-6 lg:py-3 xl:px-7 xl:py-4 rounded-lg focus:outline-blue-300"
                         placeholder="Where did you find us"
                     >
                 </section>
-                <textarea class="w-full min-h-[140px] lg:min-h-[280px] border-2 px-4 py-2 text-md lg:px-6 lg:py-3 lg:px-7 lg:py-4 rounded-lg focus:outline-blue-300" placeholder="Your Project Details"></textarea>
+                <textarea class="w-full min-h-[140px] lg:min-h-[280px] border lg:border-2 px-4 py-2 text-md lg:px-6 lg:py-3 xl:px-7 xl:py-4 rounded-lg focus:outline-blue-300" placeholder="Your Project Details"></textarea>
                 <button class="btn-blue lg:text-lg xl:text-x px-10 py-3 l lg:px-14 lg:py-3 xl:px-16 xl:py-4 font-semibold bg-[#008FFF] rounded-full">Send Message</button>
             </form>
         </div>

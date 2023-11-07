@@ -20,7 +20,7 @@
             </div>
         </div>
     </div>
-    <div class="relative inset-x-0 -top-[16%] lg:-top-[20%] w-full h-auto overflow-hidden z-10">
+    <div class="relative inset-x-0 -top-[16%] lg:-top-[20%] w-full h-auto overflow-hidden z-30">
         <img src="assets/img/service/element.svg" class="w-full h-auto scale-150 lg:scale-100" alt="element">
     </div>
 </div>

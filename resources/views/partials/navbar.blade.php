@@ -1,7 +1,7 @@
 <!-- Navbar -->
 <nav class="w-full  sticky top-0 h-auto px-5 lg:px-32 xl:px-0 bg-white  shadow-xl z-50">
     <div class="flex items-center  justify-between max-w-[1215px]  h-[74px] lg:h-20  mx-auto  ">
-        <img src="./assets/img/logo.png" class="cursor-pointer h-11 lg:h-12 xl:h-14" alt="logo hi-social">
+        <img src="/assets/img/logo.png" class="cursor-pointer h-11 lg:h-12 xl:h-14" alt="logo hi-social">
         <ul class="hidden lg:flex items-center space-x-7 xl:space-x-10 text-[18px]">
             <li class="hover:text-gray-400">
                 <a href="/">Home</a>
