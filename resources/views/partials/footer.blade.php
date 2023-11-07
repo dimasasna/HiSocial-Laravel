@@ -18,22 +18,22 @@
         </div>
         <div class="flex flex-col lg:flex-row gap-10 py-10">
             <div class="lg:flex-[44%]">
-                <img src="assets/img/logo1.png" class="h-14 lg:h-16 xl:h-auto" alt="logo hi-social" />
+                <img src="/assets/img/logo1.png" class="h-14 lg:h-16 xl:h-auto" alt="logo hi-social" />
                 <p class="mt-4 xl:mt-5 text-sm lg:text-base xl:text-xl">HiSocial Digital gives you ease in learning
                     and improving your skills to become a professional.</p>
                 <div class="flex justify-center lg:justify-normal gap-4 w-full mt-8">
                     <div
                         class="group flex justify-center items-center h-11 w-11 hover:bg-[#2563EB] border-[2px] rounded-full">
-                        <img class="text-white" src="assets/icons/1.svg" alt="logo twitter" /></div>
+                        <img class="text-white" src="/assets/icons/1.svg" alt="logo twitter" /></div>
                     <div
                         class="group flex justify-center items-center h-11 w-11 hover:bg-[#2563EB] border-[2px] rounded-full">
-                        <img class="text-white" src="assets/icons/2.svg" alt="logo facebook" /></div>
+                        <img class="text-white" src="/assets/icons/2.svg" alt="logo facebook" /></div>
                     <div
                         class="group flex justify-center items-center h-11 w-11 hover:bg-[#2563EB] border-[2px] rounded-full">
-                        <img class="text-white" src="assets/icons/3.svg" alt="logo instagram" /></div>
+                        <img class="text-white" src="/assets/icons/3.svg" alt="logo instagram" /></div>
                     <div
                         class="group flex justify-center items-center h-11 w-11 hover:bg-[#2563EB] border-[2px] rounded-full">
-                        <img class="text-white" src="assets/icons/4.svg" alt="logo github" /></div>
+                        <img class="text-white" src="/assets/icons/4.svg" alt="logo github" /></div>
                 </div>
             </div>
             <div class="flex lg:flex-[56%] gap-6 lg:gap-0 lg:pl-10">

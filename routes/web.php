@@ -34,3 +34,8 @@ Route::get('/service', function () {
         'title' => 'Service'
     ]);
 });
+Route::get('/service/digital-marketing', function () {
+    return view('digital-marketing',[
+        'title' => 'Service'
+    ]);
+});
