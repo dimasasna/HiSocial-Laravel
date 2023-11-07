@@ -7,7 +7,7 @@
                 <a href="/">Home</a>
             </li>
             <li class="hover:text-gray-400">
-                <a href="">Service</a>
+                <a href="/service">Service</a>
             </li>
             <li class="hover:text-gray-400">
                 <a href="/portofolio">Portofolio</a>
