@@ -29,3 +29,8 @@ Route::get('/portofolio', function () {
         'title' => 'Portofolio'
     ]);
 });
+Route::get('/service', function () {
+    return view('service',[
+        'title' => 'Service'
+    ]);
+});
