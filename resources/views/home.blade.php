@@ -285,7 +285,7 @@
             <h1 class="text-[24px] lg:text-[36px] text-center  leading-none font-medium">What's the review from them
                 about the <span class="text-[#008FFF]">HiSocial Digital</span>?</h1>
         </div>
-        <div class="flex flex-row justify-between lg:mt-12 mt-4 swiper">
+        <div class="flex flex-row justify-between lg:mt-12 mt-4 swiper swiper-home">
             <div class="swiper-wrapper py-4 w-full h-full">
                 <div
                     class="w-full h-full rounded-[20px] shadow-[0_3px_10px_rgb(0,0,0,0.2)] flex flex-col lg:flex-row justify-start items-center lg:items-start swiper-slide">
